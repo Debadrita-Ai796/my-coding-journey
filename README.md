@@ -1,13 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>My Portfolio</title>
-</head>
-<body style="text-align:center;font-family:sans-serif">
-
-# Hi 👋 I'm Debadrita Halder
-
-🎓 B.Tech CSE (AI & ML) Student at Adamas University  
+ <p align="center">
+  <h1>Hi 👋 I'm Debadrita Halder</h1>
+  <p>B.Tech CSE (AI & ML) Student</p>
+</p>
 💻 Aspiring AI/ML Engineer & Developer  
 
 ---
