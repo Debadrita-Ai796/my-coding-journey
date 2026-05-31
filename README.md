@@ -34,3 +34,12 @@
 ---
 
 ⭐ "Learning every day, building step by step."
+## 🌐 Connect with me
+
+<a href="https://instagram.com/debadrita__halder" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
+</a>
+
+<a href="https://facebook.com/Debadrita Halder(Ruhi)" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/>
+</a>
