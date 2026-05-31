@@ -1,6 +1,9 @@
- <p align="center">
-  <h1>Hi 👋 I'm Debadrita Halder</h1>
-  <p>B.Tech CSE (AI & ML) Student</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Hi+I'm+Debadrita+Halder" />
+</p>
+
+<p align="center">
+  B.Tech CSE (AI & ML) Student
 </p>
 💻 Aspiring AI/ML Engineer & Developer  
 
