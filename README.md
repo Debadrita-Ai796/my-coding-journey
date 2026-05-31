@@ -1,10 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Hi+I'm+Debadrita+Halder" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Debadrita+Halder" />
 </p>
 
 <p align="center">
-  B.Tech CSE (AI & ML) Student
+  🎓 B.Tech CSE (AI & ML) Student at Adamas University, Kolkata, India 
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</p>
+
 💻 Aspiring AI/ML Engineer & Developer  
 
 ---
