@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Portfolio</title>
+</head>
+<body style="text-align:center;font-family:sans-serif">
+
 # Hi 👋 I'm Debadrita Halder
 
 🎓 B.Tech CSE (AI & ML) Student at Adamas University  
@@ -34,7 +41,8 @@
 ---
 
 ⭐ "Learning every day, building step by step."
-## 🌐 Connect with me
+## 
+🌐 Connect with me
 
 <a href="https://instagram.com/debadrita__halder" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
