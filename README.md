@@ -39,7 +39,7 @@
 - Email: debabeauty1973@gmail.com  
 - GitHub: https://github.com/Debadrita-Ai796
 - WhatsApp: https://wa.me/8801570299824
-
+- 💼 LinkedIn: https://www.linkedin.com/in/debadrita-halder-0846623a7
 ---
 
 ⭐ "Learning every day, building step by step."
